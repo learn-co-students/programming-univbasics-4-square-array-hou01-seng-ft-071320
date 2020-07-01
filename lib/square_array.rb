@@ -1,3 +1,5 @@
+require 'pry'
+
 def square_array(array)
   i = 0
   sq_array = []
